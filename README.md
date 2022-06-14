@@ -8,7 +8,7 @@ To install Angular on local system, following requirements are needed:\
 Download and install NodeJS from: https://nodejs.org/en/download/ \
 *npm package manager* - Angular, the Angular CLI, and Angular applications depend on npm packages for many features and functions. To download and install npm packages, npm package manager is required. 
 
- **Installation of Angular CLI**
+ ## Installation of Angular CLI
  
 Angular CLI is tool which is used to create projects, generate application and maintain Angular application and perform several development tasks such as testing, or  deployment.\
 In order to install Angular CLI, run the following command: npm install -g @angular/cli
@@ -22,7 +22,7 @@ In order to install Angular CLI, run the following command: npm install -g @angu
  If command is compiled succesfully, navigate to http://localhost:4200/ on browser.\
  Run command ng serve --open which does the same thing, but automatically opens http://localhost:4200/ on browser.
  
- **Enviroments**
+ ## Enviroments
  
  There is enviroments folder in this application which can be replaced during build by using the `fileReplacements` array.\
  Command ng build replaces "environment.ts" with "environment.prod.ts".\
