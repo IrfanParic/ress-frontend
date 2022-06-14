@@ -17,9 +17,9 @@ In order to install Angular CLI, run the following command: npm install -g @angu
  
  Clone this repository using the following command: git clone https://github.com/AmilM7/ress-frontend.git \
  Navigate into that repository: cd (path) \
- Run the command: npm install or npm i 
- In order to run application on the browser, run the following command: ng serve\
- If command is compiled succesfully, navigate to http://localhost:4200/ on browser.\
+ Run the command: npm install or npm i <br>
+ In order to run application on the browser, run the following command: ng serve\ <br>
+ If command is compiled succesfully, navigate to http://localhost:4200/ on browser.\ <br>
  Run command ng serve --open which does the same thing, but automatically opens http://localhost:4200/ on browser.
  
  ## Enviroments
